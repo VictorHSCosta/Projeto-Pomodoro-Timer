@@ -1,0 +1,11 @@
+.h1{
+    width: 500px;
+    height: 85px;
+    flex-shrink: 0;
+    color: #EDA1A1;
+    font-family: "Playfair Display";
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
